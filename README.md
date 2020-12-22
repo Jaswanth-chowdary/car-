@@ -1,1 +1,2 @@
-# car-
+# simpleCar
+A simple racing game using threejs
